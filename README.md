@@ -54,7 +54,7 @@
 
 ### 📫 Connect
 
-- 💼 LinkedIn: *add your link here*
+- 💼 LinkedIn: [linkedin.com/FarahSharif](https://linkedin.com/in/farah-sharif-7a395b281)
 - 🧑‍💻 GitHub: [github.com/fasharif](https://github.com/fasharif)
 
 Feel free to open issues or reach out if you have feedback or ideas!
