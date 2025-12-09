@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Farah 👋</h1>
 
 <p align="center">
-  CS @ University of West London · 42 Abu Dhabi alum · Passionate about efficient & sustainable software
+  CS @ University of West London · 42 Abu Dhabi alum · Always Wander 🤩 · Keep Swimming 🏊.
 </p>
 
 ---
@@ -15,14 +15,14 @@
 - 🐧 Comfortable with Linux, shell, Git, Makefiles, and low-level concepts
 - 🌱 Currently learning: clean code, data structures, systems programming, and green software engineering
 - 🎮 I like building small games, utilities, and practicing problem solving
-- ☕ Fun fact: I’ve spent many hours debugging C pointers and still enjoy it 🙂
+- ☕ Fun fact: I’ve spent many hours debugging C Java pointers and still enjoy it 🙂
 
 ---
 
 ### 🛠 Tech stack
 
 - **Languages:** C, Java, Python, Assembly, Bash
-- **Core CS:** Algorithms & Data Structures, Computer Architecture, Operating Systems basics
+- **Core CS:** Algorithms & Data Structures, Computer Architecture, Database (SQL Oracle)
 - **Tools:** Git & GitHub, Make, GCC, GDB, VS Code, Visual Studio (MASM)
 - **OS:** Linux, macOS, Windows
 
@@ -46,7 +46,7 @@
 
 ### 📌 Current focus
 
-- Writing cleaner, well-documented code
+- Writing green software / efficient code.
 - Practicing algorithms and problem-solving in C and Java
 - Building small projects that are easy to read, test, and extend
 
