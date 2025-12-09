@@ -3,14 +3,14 @@
 <h1 align="center">Hi, I'm Farah 👋</h1>
 
 <p align="center">
-  CS @ University of West London (RAK) · 42 Abu Dhabi alum · Passionate about efficient & sustainable software
+  CS @ University of West London · 42 Abu Dhabi alum · Passionate about efficient & sustainable software
 </p>
 
 ---
 
 ### 👩‍💻 About me
 
-- 🎓 BSc (Hons) Computer Science – UWL RAK (Expected 2025)
+- 🎓 BSc (Hons) Computer Science – UWL 
 - 🧠 Strong foundations in C, Java, Python, Algorithms & Data Structures
 - 🐧 Comfortable with Linux, shell, Git, Makefiles, and low-level concepts
 - 🌱 Currently learning: clean code, data structures, systems programming, and green software engineering
