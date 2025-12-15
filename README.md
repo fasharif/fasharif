@@ -30,6 +30,9 @@
 
 ### 🚀 Highlighted projects
 
+- 🪫 **[Algorithm-Energy-C](https://github.com/fasharif/Algorithm-Energy-C)**
+  Compare how different algorithms (bubble sort, insertion sort, quicksort) perform in time and number of operations, showing the “energy” cost of computation.
+
 - 🔧 **[42-Libft-C](https://github.com/fasharif/42-Libft-C)**  
   Custom C standard library: strings, memory utils, character checks, and linked list helpers. Includes references to official testers.  
 
