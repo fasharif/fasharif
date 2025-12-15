@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi, I'm Farah 👋</h1>
+<h1 align="center"> I'm Farah 👋</h1>
 
 <p align="center">
   CS @ University of West London · 42 Abu Dhabi alum · Always Wander 🤩 · Keep Swimming 🏊.
