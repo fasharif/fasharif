@@ -37,13 +37,7 @@
   Custom C standard library: strings, memory utils, character checks, and linked list helpers. Includes references to official testers.  
 
 - 🎮 **[So-Long-42](https://github.com/fasharif/So-Long-42)**  
-  2D game in C using MiniLibX: player, collectibles, exit tiles, map rules, movement counter, and basic graphics.:contentReference[oaicite:1]{index=1}  
-
-- 🧮 **[JAVA](https://github.com/fasharif/JAVA)**  
-  Collection of Java programs: quizzes, salary and interest calculators, conditionals, loops, arrays, and small console apps.:contentReference[oaicite:2]{index=2}  
-
-- 🧱 **[Assembly](https://github.com/fasharif/Assembly)**  
-  x86 Assembly examples plus notes on setting up Visual Studio + MASM for low-level programming.:contentReference[oaicite:3]{index=3}  
+  2D game in C using MiniLibX: player, collectibles, exit tiles, map rules, movement counter, and basic graphics.  
 
 ---
 
