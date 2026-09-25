@@ -2,7 +2,8 @@
 
 **Full-stack developer** · TypeScript · NestJS · Next.js · PostgreSQL  
 Computer Science student at the University of West London · 42 Abu Dhabi alum  
-Open to graduate and junior roles in the UAE, the UK and Europe, or remote · [LinkedIn](https://www.linkedin.com/in/farah-sharif-7a395b281)
+Based in the UAE · open to graduate and junior roles there, in the UK and Europe, or remote  
+[farah.sharif.dev@gmail.com](mailto:farah.sharif.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/farah-sharif-7a395b281)
 
 ---
 
